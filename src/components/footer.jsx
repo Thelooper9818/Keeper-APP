@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer className="footer">
-            <p>Copyright ⓒ nishujangra27 {new Date().getFullYear()}</p>
+            <p>Copyright ⓒ npandey9818 {new Date().getFullYear()}</p>
         </footer>
     );
 }
